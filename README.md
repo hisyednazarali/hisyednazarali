@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-SyedMohdNazarAli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/syed-mohd-nazar-ali-159a9a131/overlay/contact-info/)
 [![Website Badge](https://img.shields.io/badge/WebSite-hisyednazarali-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-hisyednazarali-yellow)](https://stackoverflow.com/users/3687251/aakash-)
-[![Website Badge](https://img.shields.io/badge/Medium-syednazarali-yellow)](https://medium.com/@syednazarali2)
+[![Website Badge](https://img.shields.io/badge/Medium-SyedMohdNazarAli-yellow)](https://medium.com/@syednazarali2)
 
 I'm
 Full Stack Solution Architect
