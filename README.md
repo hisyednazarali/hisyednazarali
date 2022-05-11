@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-SyedMohdNazarAli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/syed-mohd-nazar-ali-159a9a131/overlay/contact-info/)
-[![Website Badge](https://img.shields.io/badge/WebSite-hisyednazarali-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-hisyednazarali-green)](https://hisyednazarali.github.io/uidesign_restaurant/)
 [![Website Badge](https://img.shields.io/badge/Kaggle-SyedMohdNazarAli-yellow)](https://www.kaggle.com/syedmohdnazarali)
 [![Website Badge](https://img.shields.io/badge/Medium-SyedMohdNazarAli-yellow)](https://medium.com/@syednazarali2)
 
