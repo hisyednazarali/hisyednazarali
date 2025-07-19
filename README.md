@@ -8,7 +8,10 @@
 
 I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (Angular13, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(Mysql),Python.
+Dedicated Data Scientist with 4.5 years of experience specializing in statistical analysis, machine learning, forecasting, 
+Generative AI and predictive modeling. Demonstrated success in extracting actionable insights from complex datasets to 
+inform strategic business decisions. Eager to leverage advanced analytical skills and innovative solutions to make a 
+significant impact within a dynamic, data-driven organization. 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/hisyednazarali/count.svg)
