@@ -7,7 +7,6 @@
 [![Website Badge](https://img.shields.io/badge/Medium-SyedMohdNazarAli-yellow)](https://medium.com/@syednazarali2)
 
 I'm
-Full Stack Solution Architect
 Dedicated Data Scientist with 4.5 years of experience specializing in statistical analysis, machine learning, forecasting, 
 Generative AI and predictive modeling. Demonstrated success in extracting actionable insights from complex datasets to 
 inform strategic business decisions. Eager to leverage advanced analytical skills and innovative solutions to make a 
