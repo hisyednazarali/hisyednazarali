@@ -13,7 +13,7 @@ inform strategic business decisions. Eager to leverage advanced analytical skill
 significant impact within a dynamic, data-driven organization. 
 
 
-![Visitor Count](https://profile-counter.glitch.me/hisyednazarali/count.svg)
+[Visitor Count](https://profile-counter.glitch.me/hisyednazarali/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
